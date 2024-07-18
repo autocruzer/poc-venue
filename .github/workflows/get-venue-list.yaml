@@ -1,6 +1,7 @@
 name: Update venue list
 on:
-#    - cron: '0 0 * * *'
+  schedule:
+    cron: "*/15 * * * *"  # Runs every 5 minutes
   workflow_dispatch:
 
 jobs:
