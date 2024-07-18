@@ -28,6 +28,7 @@ jobs:
           git commit -m "Updated on $(date +'%Y-%b-%d %H:%M:%S')"
 
       - name: Push changes
+        if: steps.get-venue-list.outputs.venue-retrieved == 'true'
         uses: ad-m/github-push-action@master
         with:
           branch: ${{ github.head_ref }}

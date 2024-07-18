@@ -11,21 +11,21 @@ response=$(curl -s --tlsv1 --tls-max 1.2 -w "http_code=%{http_code}" -A "$USER_A
 status_code=$(echo "$response" | awk -F "http_code=" '{print $2}')
 json_response=$(echo "$response" | awk -F "http_code=" '{print $1}')
 
-if [[ -f $GITHUB_OPTIONS ]]; then
-  echo "[INFO] GITHUB_OPTIONS exists"
+if [[ -f $GITHUB_OUTPUT ]]; then
+  echo "[INFO] GITHUB_OUTPUT exists"
 else
-  echo "[INFO] GITHUB_OPTIONS does not exist"
-  GITHUB_OPTIONS=file.tmp
+  echo "[INFO] GITHUB_OUTPUT does not exist"
+  GITHUB_OUTPUT=file.tmp
 fi
 # Handle the status code
 if [ "$status_code" -eq 200 ]; then
   echo "Venue List JSON Response:"
   echo "$json_response" | jq | tee data/venues.json
-  echo "venue-retrieved=true" >> $GITHUB_OPTIONS
+  echo "venue-retrieved=true" >> $GITHUB_OUTPUT
 
 else
   echo "[ERROR] Received HTTP status code $status_code"
-   echo "venue-retrieved=false" >> $GITHUB_OPTIONS 
+   echo "venue-retrieved=false" >> $GITHUB_OUTPUT 
   echo "$json_response"
 fi
 
