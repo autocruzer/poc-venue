@@ -1,0 +1,33 @@
+name: Update venue list
+on:
+#    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-venue-list:
+    runs-on: ubuntu-latest
+    permissions:                # Job-level permissions configuration starts here 
+      contents: write           # 'write' access to repository contents
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+
+      - name: Get latest venue list from MyActiveSG+ API
+        id: get-venue-list
+        run: |
+          ./scripts/getVenue.sh
+
+      - name: Commit changes
+        if: steps.get-venue-list.outputs.venue-retrieved == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/venues.json
+          git commit -m "Updated on $(date +'%Y-%b-%d %H:%M:%S')"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.head_ref }}
