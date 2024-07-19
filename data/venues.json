@@ -1249,20 +1249,6 @@
           }
         },
         {
-          "id": "JMJsnnXCzfV7wkG2fCU4N",
-          "name": "Sembawang Primary School Hall",
-          "description": null,
-          "address": "10 SEMBAWANG DRIVE SEMBAWANG PRIMARY SCHOOL SINGAPORE 757715",
-          "status": "ACTIVE",
-          "latitude": 1.4457453096024,
-          "longitude": 103.821152676215,
-          "postalCode": "757715",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          }
-        },
-        {
           "id": "cWLPCOP0DaRp91TswPcbH",
           "name": "Seng Kang Primary School Hall",
           "description": null,
