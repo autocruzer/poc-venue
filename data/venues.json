@@ -1151,6 +1151,20 @@
           }
         },
         {
+          "id": "fOf6EXbnJolxlMpVu8rqV",
+          "name": "Punggol View Primary School",
+          "description": null,
+          "address": "9 PUNGGOL PLACE PUNGGOL VIEW PRIMARY SCHOOL SINGAPORE 828845",
+          "status": "ACTIVE",
+          "latitude": 1.40505250226058,
+          "longitude": 103.905299026568,
+          "postalCode": "828845",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "VZMrUxulVPVG24gl7Xrnx",
           "name": "Qifa Primary School Hall",
           "description": null,
