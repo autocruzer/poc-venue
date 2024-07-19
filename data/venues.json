@@ -339,20 +339,6 @@
           }
         },
         {
-          "id": "liiH4YYsu0f3tlzWgC8I7",
-          "name": "Christ Church Secondary School Hall",
-          "description": null,
-          "address": "20 WOODLANDS DRIVE 17 CHRIST CHURCH SECONDARY SCHOOL SINGAPORE 737924",
-          "status": "ACTIVE",
-          "latitude": 1.42656780901455,
-          "longitude": 103.793451105242,
-          "postalCode": "737924",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          }
-        },
-        {
           "id": "nqi0R5foGPNhRJnVhbzlS",
           "name": "Clementi Primary School Hall",
           "description": null,
