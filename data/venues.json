@@ -535,20 +535,6 @@
           }
         },
         {
-          "id": "O0tvwIrzxdBw1jcWmjp7q",
-          "name": "Fengshan Primary School Hall",
-          "description": null,
-          "address": "307 BEDOK NORTH ROAD FENGSHAN PRIMARY SCHOOL SINGAPORE 469680",
-          "status": "ACTIVE",
-          "latitude": 1.32980598760785,
-          "longitude": 103.931710293058,
-          "postalCode": "469680",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          }
-        },
-        {
           "id": "shhtJZhaNDmhhGmyznREq",
           "name": "First Toa Payoh Primary School Hall",
           "description": null,
