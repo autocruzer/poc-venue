@@ -437,20 +437,6 @@
           }
         },
         {
-          "id": "nTNUP5QWvkDFpWtbfue6R",
-          "name": "Dunman High School Hall",
-          "description": null,
-          "address": "10 TANJONG RHU ROAD DUNMAN HIGH SCHOOL SINGAPORE 436895",
-          "status": "ACTIVE",
-          "latitude": 1.29996216014962,
-          "longitude": 103.88294155989,
-          "postalCode": "436895",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          }
-        },
-        {
           "id": "5r8EUJDjosfkaF8qqezOU",
           "name": "East Spring Primary School Hall",
           "description": null,
