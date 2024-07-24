@@ -339,6 +339,20 @@
           }
         },
         {
+          "id": "liiH4YYsu0f3tlzWgC8I7",
+          "name": "Christ Church Secondary School Hall",
+          "description": null,
+          "address": "20 WOODLANDS DRIVE 17 CHRIST CHURCH SECONDARY SCHOOL SINGAPORE 737924",
+          "status": "ACTIVE",
+          "latitude": 1.42656780901455,
+          "longitude": 103.793451105242,
+          "postalCode": "737924",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "nqi0R5foGPNhRJnVhbzlS",
           "name": "Clementi Primary School Hall",
           "description": null,
@@ -501,6 +515,20 @@
           "latitude": 1.44414835451585,
           "longitude": 103.794545295922,
           "postalCode": "738908",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
+          "id": "O0tvwIrzxdBw1jcWmjp7q",
+          "name": "Fengshan Primary School Hall",
+          "description": null,
+          "address": "307 BEDOK NORTH ROAD FENGSHAN PRIMARY SCHOOL SINGAPORE 469680",
+          "status": "ACTIVE",
+          "latitude": 1.32980598760785,
+          "longitude": 103.931710293058,
+          "postalCode": "469680",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1229,6 +1257,20 @@
           "latitude": 1.39333506298213,
           "longitude": 103.904545253288,
           "postalCode": "545092",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
+          "id": "JMJsnnXCzfV7wkG2fCU4N",
+          "name": "Sembawang Primary School Hall",
+          "description": null,
+          "address": "10 SEMBAWANG DRIVE SEMBAWANG PRIMARY SCHOOL SINGAPORE 757715",
+          "status": "ACTIVE",
+          "latitude": 1.4457453096024,
+          "longitude": 103.821152676215,
+          "postalCode": "757715",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
