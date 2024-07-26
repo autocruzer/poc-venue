@@ -1501,6 +1501,20 @@
           }
         },
         {
+          "id": "Qulnp10Fos2i45rlgrA5b",
+          "name": "Woodgrove Primary School Hall",
+          "description": null,
+          "address": "2 WOODLANDS DRIVE WOODGROVE PRIMARY SCHOOL SINGAPORE 738079",
+          "status": "ACTIVE",
+          "latitude": 1.43273620725049,
+          "longitude": 103.79023031392,
+          "postalCode": "738079",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "ZYCSb8V69HUhNJeDKsEJf",
           "name": "Woodlands Secondary School Hall",
           "description": null,
