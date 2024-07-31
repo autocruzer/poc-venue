@@ -899,6 +899,20 @@
           }
         },
         {
+          "id": "UAeAo7CCXS8viX5UnapTG",
+          "name": "Meridian Secondary School Hall",
+          "description": null,
+          "address": "31 PASIR RIS STREET 51 MERIDIAN SECONDARY SCHOOL SINGAPORE 518901",
+          "status": "ACTIVE",
+          "latitude": 1.3672468492013,
+          "longitude": 103.948972483629,
+          "postalCode": "518901",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "kEBJKrx1USi4BvQxwMMHs",
           "name": "MOE (Evans) Sport Hall",
           "description": null,
