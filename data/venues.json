@@ -269,20 +269,6 @@
           }
         },
         {
-          "id": "Us0MaNzoJ6XwGGq2PY98h",
-          "name": "Casuarina Primary School Hall",
-          "description": null,
-          "address": "30 PASIR RIS STREET 41 CASUARINA PRIMARY SINGAPORE 518935",
-          "status": "ACTIVE",
-          "latitude": 1.37246063927999,
-          "longitude": 103.957020286115,
-          "postalCode": "518935",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          }
-        },
-        {
           "id": "AxDehUxuPrlYSmWBAR3lc",
           "name": "Cedar Primary School Hall",
           "description": null,
@@ -353,20 +339,6 @@
           }
         },
         {
-          "id": "nqi0R5foGPNhRJnVhbzlS",
-          "name": "Clementi Primary School Hall",
-          "description": null,
-          "address": "8 CLEMENTI AVENUE 3 NASCANS CLEMENTI STUDENT CARE CENTRE SINGAPORE 129903",
-          "status": "ACTIVE",
-          "latitude": 1.31506321827875,
-          "longitude": 103.763144493687,
-          "postalCode": "129903",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          }
-        },
-        {
           "id": "fU1NDT1wfMMSGcB2GUPst",
           "name": "Clementi Sport Hall",
           "description": null,
@@ -403,20 +375,6 @@
           "latitude": 1.38026516111464,
           "longitude": 103.736554295636,
           "postalCode": "689814",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          }
-        },
-        {
-          "id": "CQT4YYAq7wPkHGOuziyvg",
-          "name": "Dazhong Primary School Hall",
-          "description": null,
-          "address": "35 BUKIT BATOK STREET 31 DAZHONG PRIMARY SCHOOL SINGAPORE 659441",
-          "status": "ACTIVE",
-          "latitude": 1.3591797447277,
-          "longitude": 103.74847210784,
-          "postalCode": "659441",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -963,20 +921,6 @@
           "latitude": 1.38255066171151,
           "longitude": 103.89626457548,
           "postalCode": "544974",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          }
-        },
-        {
-          "id": "5ozMPpwgFvTb6jWaHhUwU",
-          "name": "North Vista Secondary School Hall",
-          "description": null,
-          "address": "11 RIVERVALE LINK NORTH VISTA SECONDARY SCHOOL SINGAPORE 545081",
-          "status": "ACTIVE",
-          "latitude": 1.381131285358,
-          "longitude": 103.899188813886,
-          "postalCode": "545081",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1624,20 +1568,6 @@
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
-          }
-        },
-        {
-          "id": "P2fLTWSMzdMj3ZI2V1wVy",
-          "name": "Yishun Town Secondary School Hall",
-          "description": null,
-          "address": "6 YISHUN STREET 21 YISHUN TOWN SECONDARY SCHOOL SINGAPORE 768610",
-          "status": "ACTIVE",
-          "latitude": 1.43232156717386,
-          "longitude": 103.838094226361,
-          "postalCode": "768610",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
           }
         },
         {
