@@ -745,6 +745,20 @@
           }
         },
         {
+          "id": "kiyKUyVTnvoQTNWVFT4LH",
+          "name": "Keming Primary School Hall",
+          "description": null,
+          "address": "90 BUKIT BATOK EAST AVENUE 6 KEMING PRIMARY SCHOOL SINGAPORE 659762",
+          "status": "ACTIVE",
+          "latitude": 1.34552849960874,
+          "longitude": 103.756449399351,
+          "postalCode": "659762",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "kOnZuc48plvOq7IthMY2U",
           "name": "Kuo Chuan Presbyterian Primary School Hall",
           "description": null,
