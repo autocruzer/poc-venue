@@ -381,6 +381,20 @@
           }
         },
         {
+          "id": "CQT4YYAq7wPkHGOuziyvg",
+          "name": "Dazhong Primary School Hall",
+          "description": null,
+          "address": "35 BUKIT BATOK STREET 31 DAZHONG PRIMARY SCHOOL SINGAPORE 659441",
+          "status": "ACTIVE",
+          "latitude": 1.3591797447277,
+          "longitude": 103.74847210784,
+          "postalCode": "659441",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "a3jznoZlsfyJrl43Tbnog",
           "name": "Delta Sport Hall",
           "description": null,
@@ -1582,6 +1596,20 @@
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
+          }
+        },
+        {
+          "id": "P2fLTWSMzdMj3ZI2V1wVy",
+          "name": "Yishun Town Secondary School Hall",
+          "description": null,
+          "address": "6 YISHUN STREET 21 YISHUN TOWN SECONDARY SCHOOL SINGAPORE 768610",
+          "status": "ACTIVE",
+          "latitude": 1.43232156717386,
+          "longitude": 103.838094226361,
+          "postalCode": "768610",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
           }
         },
         {
