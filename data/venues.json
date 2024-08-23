@@ -269,6 +269,20 @@
           }
         },
         {
+          "id": "Us0MaNzoJ6XwGGq2PY98h",
+          "name": "Casuarina Primary School Hall",
+          "description": null,
+          "address": "30 PASIR RIS STREET 41 CASUARINA PRIMARY SINGAPORE 518935",
+          "status": "ACTIVE",
+          "latitude": 1.37246063927999,
+          "longitude": 103.957020286115,
+          "postalCode": "518935",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "AxDehUxuPrlYSmWBAR3lc",
           "name": "Cedar Primary School Hall",
           "description": null,
@@ -333,6 +347,20 @@
           "latitude": 1.42656780901455,
           "longitude": 103.793451105242,
           "postalCode": "737924",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
+          "id": "nqi0R5foGPNhRJnVhbzlS",
+          "name": "Clementi Primary School Hall",
+          "description": null,
+          "address": "8 CLEMENTI AVENUE 3 NASCANS CLEMENTI STUDENT CARE CENTRE SINGAPORE 129903",
+          "status": "ACTIVE",
+          "latitude": 1.31506321827875,
+          "longitude": 103.763144493687,
+          "postalCode": "129903",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -949,6 +977,20 @@
           "latitude": 1.38255066171151,
           "longitude": 103.89626457548,
           "postalCode": "544974",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
+          "id": "5ozMPpwgFvTb6jWaHhUwU",
+          "name": "North Vista Secondary School Hall",
+          "description": null,
+          "address": "11 RIVERVALE LINK NORTH VISTA SECONDARY SCHOOL SINGAPORE 545081",
+          "status": "ACTIVE",
+          "latitude": 1.381131285358,
+          "longitude": 103.899188813886,
+          "postalCode": "545081",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
