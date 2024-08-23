@@ -1515,6 +1515,20 @@
           }
         },
         {
+          "id": "OzrxvbMIJ0qQEw9h0suQT",
+          "name": "Woodlands Sport Hall",
+          "description": null,
+          "address": "2 WOODLANDS STREET 12 WOODLANDS SPORT CENTRE SINGAPORE 738620",
+          "status": "ACTIVE",
+          "latitude": 1.4341397536544,
+          "longitude": 103.77985009679,
+          "postalCode": "738620",
+          "type": {
+            "name": "SRC",
+            "id": "18BtxF4HQYEYBGdnoSM5a"
+          }
+        },
+        {
           "id": "rhK3pSR5ifFrB2AVCMOeK",
           "name": "Yio Chu Kang Primary School Hall",
           "description": null,
