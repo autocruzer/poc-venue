@@ -521,6 +521,20 @@
           }
         },
         {
+          "id": "S37sThPNt4FIIVVnf4rZF",
+          "name": "Eunoia Junior College Hall",
+          "description": null,
+          "address": "2 SIN MING PLACE EUNOIA JUNIOR COLLEGE SINGAPORE 573838",
+          "status": "ACTIVE",
+          "latitude": 1.36213757183547,
+          "longitude": 103.841286169122,
+          "postalCode": "573838",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "mZ647YYImQ69PjoUNwR9C",
           "name": "Evergreen Primary School Hall",
           "description": null,
