@@ -563,6 +563,20 @@
           }
         },
         {
+          "id": "1KTMl9mhDvBeR0xRoHA9a",
+          "name": "Fern Green Primary School Hall",
+          "description": null,
+          "address": "70 FERNVALE LINK FERN GREEN PRIMARY SCHOOL SINGAPORE 797538",
+          "status": "ACTIVE",
+          "latitude": 1.39726966050479,
+          "longitude": 103.880330305684,
+          "postalCode": "797538",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "shhtJZhaNDmhhGmyznREq",
           "name": "First Toa Payoh Primary School Hall",
           "description": null,
