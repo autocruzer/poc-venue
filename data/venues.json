@@ -1081,20 +1081,6 @@
           }
         },
         {
-          "id": "nqBpgnMrPN8u5LLfvyN2T",
-          "name": "Our Tampines Hub - Community Auditorium",
-          "description": null,
-          "address": "1 TAMPINES WALK OUR TAMPINES HUB SINGAPORE 528523",
-          "status": "ACTIVE",
-          "latitude": 1.35218046898785,
-          "longitude": 103.940598001519,
-          "postalCode": "528523",
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
-          }
-        },
-        {
           "id": "QAG9aSOv28TZ8lnurRqtA",
           "name": "Park View Primary School Hall",
           "description": null,
