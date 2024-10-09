@@ -17,6 +17,20 @@
           }
         },
         {
+          "id": "7bg9Z7WtSvoLMpgxWGjTs",
+          "name": "Ahmad Ibrahim Secondary School Hall",
+          "description": null,
+          "address": "751 YISHUN AVENUE 7 AHMAD IBRAHIM SECONDARY SCHOOL SINGAPORE 768928",
+          "status": "ACTIVE",
+          "latitude": 1.43605975368804,
+          "longitude": 103.829718690077,
+          "postalCode": "768928",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "9zE1soYz9gKof24042MyX",
           "name": "Beacon Primary School Hall",
           "description": null,
