@@ -1417,6 +1417,20 @@
           }
         },
         {
+          "id": "3DEYLIkm07HzOjfurjKvC",
+          "name": "Serangoon Secondary School Hall",
+          "description": null,
+          "address": "21 SERANGOON NORTH AVENUE 1 SERANGOON GARDEN SECONDARY SCHOOL SINGAPORE 555889",
+          "status": "ACTIVE",
+          "latitude": 1.36932570490947,
+          "longitude": 103.869270301476,
+          "postalCode": "555889",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          }
+        },
+        {
           "id": "lKEsT2QFlC9IvEZBD4SYr",
           "name": "Shuqun Primary School Hall",
           "description": null,
