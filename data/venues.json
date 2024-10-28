@@ -1420,11 +1420,11 @@
           "id": "3DEYLIkm07HzOjfurjKvC",
           "name": "Serangoon Secondary School Hall",
           "description": null,
-          "address": "21 SERANGOON NORTH AVENUE 1 SERANGOON GARDEN SECONDARY SCHOOL SINGAPORE 555889",
+          "address": "11 UPPER SERANGOON VIEW SERANGOON SECONDARY SCHOOL SINGAPORE 534237",
           "status": "ACTIVE",
-          "latitude": 1.36932570490947,
-          "longitude": 103.869270301476,
-          "postalCode": "555889",
+          "latitude": 1.37465538827443,
+          "longitude": 103.902138740699,
+          "postalCode": "534237",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
