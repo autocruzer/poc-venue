@@ -1403,6 +1403,20 @@
           }
         },
         {
+          "id": "JEBGvnHbjLScZCVrgAorv",
+          "name": "Senja-Cashew Sport Hall",
+          "description": null,
+          "address": "101 BUKIT PANJANG ROAD SENJA-CASHEW COMMUNITY CLUB SINGAPORE 679910",
+          "status": "ACTIVE",
+          "latitude": 1.3816381331934,
+          "longitude": 103.764676250968,
+          "postalCode": "679910",
+          "type": {
+            "name": "SRC",
+            "id": "18BtxF4HQYEYBGdnoSM5a"
+          }
+        },
+        {
           "id": "HOBvXHvooY9higfh69TVj",
           "name": "Serangoon Garden Secondary School Hall",
           "description": null,
