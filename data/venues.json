@@ -759,20 +759,6 @@
           }
         },
         {
-          "id": "vrkrAMmmGiSIaj7FEMcjx",
-          "name": "Jurong East Sport Hall",
-          "description": null,
-          "address": "21 JURONG EAST STREET 31 JURONG EAST SPORT CENTRE SINGAPORE 609517",
-          "status": "ACTIVE",
-          "latitude": 1.34649072704441,
-          "longitude": 103.729053872207,
-          "postalCode": "609517",
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
-          }
-        },
-        {
           "id": "IzBcR11fYSeByAUYgp5v6",
           "name": "Jurong Secondary School Hall",
           "description": null,
