@@ -1653,6 +1653,21 @@
           "favourited": false
         },
         {
+          "id": "9bkrZugmsZepQ2jtTajzm",
+          "name": "Waterway Primary School Hall",
+          "description": null,
+          "address": "70 PUNGGOL DRIVE WATERWAY PRIMARY SCHOOL SINGAPORE 828802",
+          "status": "ACTIVE",
+          "latitude": 1.39889261226315,
+          "longitude": 103.918585924582,
+          "postalCode": "828802",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "Nyj8pYIPzftWajtf8Kh7b",
           "name": "Wellington Primary School Hall",
           "description": null,
