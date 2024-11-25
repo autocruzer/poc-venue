@@ -738,6 +738,21 @@
           "favourited": false
         },
         {
+          "id": "C8ukgfnOznV5fC203rB2A",
+          "name": "Henry Park Primary School Hall",
+          "description": null,
+          "address": "1 HOLLAND GROVE ROAD HENRY PARK PRIMARY SCHOOL SINGAPORE 278790",
+          "status": "ACTIVE",
+          "latitude": 1.31667646178347,
+          "longitude": 103.784296227747,
+          "postalCode": "278790",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "hzrR3kvk8qcNWKRxkvUkb",
           "name": "Hougang Secondary School Hall",
           "description": null,
