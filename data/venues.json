@@ -1653,6 +1653,21 @@
           "favourited": false
         },
         {
+          "id": "9woSUBifmxK6x5JNtUUYU",
+          "name": "Townsville Primary School Hall",
+          "description": null,
+          "address": "3 ANG MO KIO AVENUE 10 TOWNSVILLE PRIMARY SCHOOL SINGAPORE 569730",
+          "status": "ACTIVE",
+          "latitude": 1.35994649477568,
+          "longitude": 103.853768994775,
+          "postalCode": "569730",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "lPVLkQadHo9kcrsVzXn0w",
           "name": "Unity Primary School Hall",
           "description": null,
