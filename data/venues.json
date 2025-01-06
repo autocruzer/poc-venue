@@ -1083,6 +1083,21 @@
           "favourited": false
         },
         {
+          "id": "MxokJ4BUcmoTlHPmUyFIx",
+          "name": "North View Primary School Hall",
+          "description": null,
+          "address": "210 YISHUN AVENUE 6 MOE KINDERGARTEN @ NORTH VIEW SINGAPORE 768960",
+          "status": "ACTIVE",
+          "latitude": 1.42745159462566,
+          "longitude": 103.848378442893,
+          "postalCode": "768960",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "1sPQYX9V5NpYIfQSIvv6r",
           "name": "North Vista Primary School Hall",
           "description": null,
