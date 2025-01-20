@@ -1743,6 +1743,21 @@
           "favourited": false
         },
         {
+          "id": "OnP973cyRwtiEV383oTO5",
+          "name": "West View Primary School Hall",
+          "description": null,
+          "address": "31 SENJA ROAD WEST VIEW PRIMARY SCHOOL SINGAPORE 677742",
+          "status": "ACTIVE",
+          "latitude": 1.38378546546228,
+          "longitude": 103.760273432258,
+          "postalCode": "677742",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "QT8qwI8IX05TghAKm2cL1",
           "name": "Westwood Secondary School Hall",
           "description": null,
