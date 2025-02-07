@@ -243,6 +243,21 @@
           "favourited": false
         },
         {
+          "id": "jTPGVh1bbKq70nuvjqvR4",
+          "name": "Bukit Timah Primary School Hall",
+          "description": null,
+          "address": "111 LORONG KISMIS, BUKIT TIMAH PRIMARY SCHOOL, SINGAPORE 598112",
+          "status": "ACTIVE",
+          "latitude": 1.3377498622588,
+          "longitude": 103.766855344779,
+          "postalCode": "598112",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "rzOCKx6ezbKcGKQWjSHlN",
           "name": "Bukit View Secondary School Hall",
           "description": null,
