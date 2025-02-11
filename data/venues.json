@@ -528,6 +528,21 @@
           "favourited": false
         },
         {
+          "id": "N2yRAN8hyCnQcEnZzPOOY",
+          "name": "Edgefield Primary School Hall",
+          "description": null,
+          "address": "41 EDGEFIELD PLAINS EDGEFIELD PRIMARY SCHOOL SINGAPORE 828869",
+          "status": "ACTIVE",
+          "latitude": 1.40009139510996,
+          "longitude": 103.907847599114,
+          "postalCode": "828869",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "7z00lbn6Rqy3w4C46HLYf",
           "name": "Edgefield Secondary School Hall",
           "description": null,
