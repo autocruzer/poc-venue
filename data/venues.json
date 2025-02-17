@@ -153,6 +153,21 @@
           "favourited": false
         },
         {
+          "id": "wfqNsxOYnCEBQ0kk5ENjq",
+          "name": "Blangah Rise Primary School Hall",
+          "description": null,
+          "address": "91 TELOK BLANGAH HEIGHTS BLANGAH RISE PRIMARY SCHOOL SINGAPORE 109100",
+          "status": "ACTIVE",
+          "latitude": 1.27612047924037,
+          "longitude": 103.808628535239,
+          "postalCode": "109100",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "eqzbNMrlMOTaSzDvEF05p",
           "name": "Boon Lay Secondary School Hall",
           "description": null,
