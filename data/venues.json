@@ -1863,6 +1863,21 @@
           "favourited": false
         },
         {
+          "id": "IRzXPAeprtFuFudllhREU",
+          "name": "Xinghua Primary School Hall",
+          "description": null,
+          "address": "45 HOUGANG AVENUE 1 SINGAPORE 538882",
+          "status": "ACTIVE",
+          "latitude": 1.35799653782463,
+          "longitude": 103.890216355459,
+          "postalCode": "538882",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "rhK3pSR5ifFrB2AVCMOeK",
           "name": "Yio Chu Kang Primary School Hall",
           "description": null,
