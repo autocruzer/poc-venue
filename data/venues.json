@@ -198,21 +198,6 @@
           "favourited": false
         },
         {
-          "id": "wpSdUk0uledoInNjK3Kaw",
-          "name": "Bukit Canberra Sport Hall",
-          "description": null,
-          "address": "21 CANBERRA LINK BUKIT CANBERRA SPORT CENTRE SINGAPORE 756973",
-          "status": "ACTIVE",
-          "latitude": 1.44826336410158,
-          "longitude": 103.82276363189,
-          "postalCode": "756973",
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
-          },
-          "favourited": false
-        },
-        {
           "id": "WYfbYK8b8mvlTx7iiCIJp",
           "name": "Bukit Gombak Sport Hall",
           "description": null,
