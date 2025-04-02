@@ -858,6 +858,21 @@
           "favourited": false
         },
         {
+          "id": "zrRY1f5GItJnx6rWeK0IL",
+          "name": "Jing Shan Primary School Hall",
+          "description": null,
+          "address": "5 ANG MO KIO STREET 52 JING SHAN PRIMARY SCHOOL SINGAPORE 569228",
+          "status": "ACTIVE",
+          "latitude": 1.37196445720109,
+          "longitude": 103.851763531681,
+          "postalCode": "569228",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "oN4FezUSD6tOmATK2CLaY",
           "name": "Junyuan Secondary School Hall",
           "description": null,
