@@ -378,21 +378,6 @@
           "favourited": false
         },
         {
-          "id": "jP33ehBA3lDjp34Lq7dEd",
-          "name": "Choa Chu Kang Sport Hall",
-          "description": null,
-          "address": "1 CHOA CHU KANG STREET 53 CHOA CHU KANG SPORT CENTRE SINGAPORE 689236",
-          "status": "ACTIVE",
-          "latitude": 1.39059559281482,
-          "longitude": 103.748024129362,
-          "postalCode": "689236",
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
-          },
-          "favourited": false
-        },
-        {
           "id": "liiH4YYsu0f3tlzWgC8I7",
           "name": "Christ Church Secondary School Hall",
           "description": null,
@@ -1308,21 +1293,6 @@
           "favourited": false
         },
         {
-          "id": "TbIGpVpUxV6SZrxp9tPkB",
-          "name": "Pasir Ris Sport Hall",
-          "description": null,
-          "address": "120 PASIR RIS CENTRAL PASIR RIS SPORT CENTRE SINGAPORE 519640",
-          "status": "ACTIVE",
-          "latitude": 1.37405935580675,
-          "longitude": 103.951850332313,
-          "postalCode": "519640",
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
-          },
-          "favourited": false
-        },
-        {
           "id": "V0cHEdFG8rbptwBMI8yGd",
           "name": "Peicai Secondary School Hall",
           "description": null,
@@ -1574,21 +1544,6 @@
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
-          },
-          "favourited": false
-        },
-        {
-          "id": "cRyHuTcU77VZY7Er3jVf5",
-          "name": "Sengkang Sport Hall",
-          "description": null,
-          "address": "57 ANCHORVALE ROAD SENGKANG SPORT CENTRE SINGAPORE 544964",
-          "status": "ACTIVE",
-          "latitude": 1.39682003561904,
-          "longitude": 103.886846599447,
-          "postalCode": "544964",
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
           },
           "favourited": false
         },
