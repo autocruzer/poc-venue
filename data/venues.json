@@ -1308,21 +1308,6 @@
           "favourited": false
         },
         {
-          "id": "TbIGpVpUxV6SZrxp9tPkB",
-          "name": "Pasir Ris Sport Hall",
-          "description": null,
-          "address": "120 PASIR RIS CENTRAL PASIR RIS SPORT CENTRE SINGAPORE 519640",
-          "status": "ACTIVE",
-          "latitude": 1.37405935580675,
-          "longitude": 103.951850332313,
-          "postalCode": "519640",
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
-          },
-          "favourited": false
-        },
-        {
           "id": "V0cHEdFG8rbptwBMI8yGd",
           "name": "Peicai Secondary School Hall",
           "description": null,
