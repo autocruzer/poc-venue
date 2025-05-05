@@ -138,6 +138,21 @@
           "favourited": false
         },
         {
+          "id": "LpiaS3dnMUXa39CrtTm9w",
+          "name": "Bishan Sport Hall",
+          "description": null,
+          "address": "5 BISHAN STREET 14 BISHAN SPORT CENTRE SINGAPORE 579783",
+          "status": "ACTIVE",
+          "latitude": 1.35528263459438,
+          "longitude": 103.850922068559,
+          "postalCode": "579783",
+          "type": {
+            "name": "SRC",
+            "id": "18BtxF4HQYEYBGdnoSM5a"
+          },
+          "favourited": false
+        },
+        {
           "id": "wfqNsxOYnCEBQ0kk5ENjq",
           "name": "Blangah Rise Primary School Hall",
           "description": null,
