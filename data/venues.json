@@ -33,6 +33,21 @@
           "favourited": false
         },
         {
+          "id": "1H7SSWewlpNYu9cmoXPn2",
+          "name": "Anchor Green Primary School Hall",
+          "description": null,
+          "address": "31 ANCHORVALE DRIVE ANCHOR GREEN PRIMARY SCHOOL SINGAPORE 544969",
+          "status": "ACTIVE",
+          "latitude": 1.39036998654612,
+          "longitude": 103.887165375933,
+          "postalCode": "544969",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "9zE1soYz9gKof24042MyX",
           "name": "Beacon Primary School Hall",
           "description": null,
@@ -158,8 +173,8 @@
           "description": null,
           "address": "91 TELOK BLANGAH HEIGHTS BLANGAH RISE PRIMARY SCHOOL SINGAPORE 109100",
           "status": "ACTIVE",
-          "latitude": 1.27612047924037,
-          "longitude": 103.808628535239,
+          "latitude": 1.276261,
+          "longitude": 103.808522,
           "postalCode": "109100",
           "type": {
             "name": "DUS",
@@ -378,21 +393,6 @@
           "favourited": false
         },
         {
-          "id": "bbyJ7E5oIPvgA5J7jYNjN",
-          "name": "Choa Chu Kang Secondary School Hall",
-          "description": null,
-          "address": "31 TECK WHYE CRESCENT CHUA CHU KANG SECONDARY SCHOOL SINGAPORE 688848",
-          "status": "ACTIVE",
-          "latitude": 1.38333422637073,
-          "longitude": 103.75510327583,
-          "postalCode": "688848",
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          },
-          "favourited": false
-        },
-        {
           "id": "jP33ehBA3lDjp34Lq7dEd",
           "name": "Choa Chu Kang Sport Hall",
           "description": null,
@@ -416,6 +416,21 @@
           "latitude": 1.42656780901455,
           "longitude": 103.793451105242,
           "postalCode": "737924",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
+          "id": "bbyJ7E5oIPvgA5J7jYNjN",
+          "name": "Chua Chu Kang Secondary School Hall",
+          "description": null,
+          "address": "31 TECK WHYE CRESCENT CHUA CHU KANG SECONDARY SCHOOL SINGAPORE 688848",
+          "status": "ACTIVE",
+          "latitude": 1.38333422637073,
+          "longitude": 103.75510327583,
+          "postalCode": "688848",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -731,6 +746,21 @@
           "latitude": 1.28559516494962,
           "longitude": 103.815547410064,
           "postalCode": "158901",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
+          "id": "pSb2HypfjPg8TmbY3U1vZ",
+          "name": "Gongshang Primary School Hall",
+          "description": null,
+          "address": "1 TAMPINES STREET 42 GONGSHANG PRIMARY SCHOOL SINGAPORE 529176",
+          "status": "ACTIVE",
+          "latitude": 1.35711606790292,
+          "longitude": 103.949144797277,
+          "postalCode": "529176",
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1684,7 +1714,7 @@
         },
         {
           "id": "XXjIDkenq2PJCl0K9Z0QP",
-          "name": "St Anthony's Primary School Hall",
+          "name": "St. Anthony's Primary School Hall",
           "description": null,
           "address": "30 BUKIT BATOK STREET 32 ST ANTHONY'S PRIMARY SCHOOL SINGAPORE 659401",
           "status": "ACTIVE",
@@ -1699,7 +1729,7 @@
         },
         {
           "id": "RBC3BhHXlonpOAHS8vVYH",
-          "name": "St Gabriel's Secondary School Hall",
+          "name": "St. Gabriel's Secondary School Hall",
           "description": null,
           "address": "24 SERANGOON AVENUE 1 SAINT GABRIEL'S SECONDARY SCHOOL SINGAPORE 556140",
           "status": "ACTIVE",
