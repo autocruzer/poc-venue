@@ -48,6 +48,21 @@
           "favourited": false
         },
         {
+          "id": "zmOAv5FPai8EuPpHBvmi2",
+          "name": "Ang Mo Kio Primary School Hall",
+          "description": null,
+          "address": "20 ANG MO KIO AVENUE 3 ANG MO KIO PRIMARY SCHOOL SINGAPORE 569920",
+          "status": "ACTIVE",
+          "latitude": 1.36932176584608,
+          "longitude": 103.839630858752,
+          "postalCode": "569920",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "9zE1soYz9gKof24042MyX",
           "name": "Beacon Primary School Hall",
           "description": null,
