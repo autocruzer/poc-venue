@@ -1353,6 +1353,21 @@
           "favourited": false
         },
         {
+          "id": "ZB70oL3yg99A7pXWNKhTY",
+          "name": "Pasir Ris Primary School Hall",
+          "description": null,
+          "address": "5 PASIR RIS STREET 21 SINGAPORE 518968",
+          "status": "ACTIVE",
+          "latitude": 1.37245132722087,
+          "longitude": 103.962922699031,
+          "postalCode": "518968",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "Zgl7HQ7kn1abhxuCN7VFp",
           "name": "Pasir Ris Secondary School Hall",
           "description": null,
