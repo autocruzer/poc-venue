@@ -1473,6 +1473,21 @@
           "favourited": false
         },
         {
+          "id": "tckWqoLb1K2UBagZpBqB4",
+          "name": "Punggol Secondary School Hall",
+          "description": null,
+          "address": "51 EDGEFIELD PLAINS PUNGGOL SECONDARY SCHOOL SINGAPORE 828870",
+          "status": "ACTIVE",
+          "latitude": 1.402069,
+          "longitude": 103.909443,
+          "postalCode": "828870",
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "fOf6EXbnJolxlMpVu8rqV",
           "name": "Punggol View Primary School Hall",
           "description": null,
