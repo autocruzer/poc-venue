@@ -11,6 +11,7 @@
           "latitude": 1.4426347903311,
           "longitude": 103.800040119743,
           "postalCode": "738907",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -26,6 +27,7 @@
           "latitude": 1.43605975368804,
           "longitude": 103.829718690077,
           "postalCode": "768928",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -41,6 +43,7 @@
           "latitude": 1.39036998654612,
           "longitude": 103.887165375933,
           "postalCode": "544969",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -56,6 +59,7 @@
           "latitude": 1.36932176584608,
           "longitude": 103.839630858752,
           "postalCode": "569920",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -71,6 +75,7 @@
           "latitude": 1.38394936211823,
           "longitude": 103.773632022975,
           "postalCode": "679944",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -86,6 +91,7 @@
           "latitude": 1.341790284928,
           "longitude": 103.852280842345,
           "postalCode": "318990",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -101,6 +107,7 @@
           "latitude": 1.32344593287992,
           "longitude": 103.937878976352,
           "postalCode": "469317",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -116,6 +123,7 @@
           "latitude": 1.32513655159184,
           "longitude": 103.950989139261,
           "postalCode": "468585",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -131,6 +139,7 @@
           "latitude": 1.32181250780475,
           "longitude": 103.865404167629,
           "postalCode": "339948",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -146,6 +155,7 @@
           "latitude": 1.32461111307996,
           "longitude": 103.860970284401,
           "postalCode": "327919",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -161,6 +171,7 @@
           "latitude": 1.35507502935779,
           "longitude": 103.849990446063,
           "postalCode": "579780",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -176,6 +187,7 @@
           "latitude": 1.35528263459438,
           "longitude": 103.850922068559,
           "postalCode": "579783",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -191,6 +203,7 @@
           "latitude": 1.276261,
           "longitude": 103.808522,
           "postalCode": "109100",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -206,6 +219,7 @@
           "latitude": 1.34272216334333,
           "longitude": 103.701891453912,
           "postalCode": "648354",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -221,6 +235,7 @@
           "latitude": 1.37035994436209,
           "longitude": 103.877659577677,
           "postalCode": "547529",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -236,6 +251,7 @@
           "latitude": 1.44826336410158,
           "longitude": 103.82276363189,
           "postalCode": "756973",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -251,6 +267,7 @@
           "latitude": 1.35975603325519,
           "longitude": 103.752285494299,
           "postalCode": "659088",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -266,6 +283,7 @@
           "latitude": 1.38224243360043,
           "longitude": 103.738361221869,
           "postalCode": "689809",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -281,6 +299,7 @@
           "latitude": 1.37350089986584,
           "longitude": 103.769417337654,
           "postalCode": "679676",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -296,6 +315,7 @@
           "latitude": 1.3377498622588,
           "longitude": 103.766855344779,
           "postalCode": "598112",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -311,6 +331,7 @@
           "latitude": 1.3457330554294,
           "longitude": 103.752226593984,
           "postalCode": "659633",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -326,6 +347,7 @@
           "latitude": 1.45125024371543,
           "longitude": 103.815858858929,
           "postalCode": "757714",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -341,6 +363,7 @@
           "latitude": 1.45319086315972,
           "longitude": 103.814203583818,
           "postalCode": "757699",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -356,6 +379,7 @@
           "latitude": 1.27547252623201,
           "longitude": 103.839962631748,
           "postalCode": "088256",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -371,6 +395,7 @@
           "latitude": 1.37246063927999,
           "longitude": 103.957020286115,
           "postalCode": "518935",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -386,6 +411,7 @@
           "latitude": 1.33950630072876,
           "longitude": 103.953245525564,
           "postalCode": "529894",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -401,6 +427,7 @@
           "latitude": 1.34023163951633,
           "longitude": 103.952080114035,
           "postalCode": "529896",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -416,6 +443,7 @@
           "latitude": 1.39059559281482,
           "longitude": 103.748024129362,
           "postalCode": "689236",
+          "facilityBookingLeadTime": 0,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -431,6 +459,7 @@
           "latitude": 1.42656780901455,
           "longitude": 103.793451105242,
           "postalCode": "737924",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -446,6 +475,7 @@
           "latitude": 1.38333422637073,
           "longitude": 103.75510327583,
           "postalCode": "688848",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -461,6 +491,7 @@
           "latitude": 1.31506321827875,
           "longitude": 103.763144493687,
           "postalCode": "129903",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -476,6 +507,7 @@
           "latitude": 1.31101498092681,
           "longitude": 103.764861406796,
           "postalCode": "129907",
+          "facilityBookingLeadTime": 0,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -491,6 +523,7 @@
           "latitude": 1.31553912945073,
           "longitude": 103.762020598524,
           "postalCode": "129904",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -506,6 +539,7 @@
           "latitude": 1.38026516111464,
           "longitude": 103.736554295636,
           "postalCode": "689814",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -521,6 +555,7 @@
           "latitude": 1.3591797447277,
           "longitude": 103.74847210784,
           "postalCode": "659441",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -536,6 +571,7 @@
           "latitude": 1.29052498417749,
           "longitude": 103.820588112164,
           "postalCode": "158790",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -551,6 +587,7 @@
           "latitude": 1.36599702567717,
           "longitude": 103.852545772422,
           "postalCode": "569277",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -566,6 +603,7 @@
           "latitude": 1.29996216014962,
           "longitude": 103.88294155989,
           "postalCode": "436895",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -581,6 +619,7 @@
           "latitude": 1.35268400746357,
           "longitude": 103.961676849165,
           "postalCode": "529258",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -596,6 +635,7 @@
           "latitude": 1.40009139510996,
           "longitude": 103.907847599114,
           "postalCode": "828869",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -611,6 +651,7 @@
           "latitude": 1.40059309981824,
           "longitude": 103.902687385465,
           "postalCode": "828814",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -626,6 +667,7 @@
           "latitude": 1.37505696315817,
           "longitude": 103.945289416873,
           "postalCode": "518866",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -641,6 +683,7 @@
           "latitude": 1.45388170417263,
           "longitude": 103.817174701639,
           "postalCode": "757521",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -656,6 +699,7 @@
           "latitude": 1.36213757183547,
           "longitude": 103.841286169122,
           "postalCode": "573838",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -671,6 +715,7 @@
           "latitude": 1.44414835451585,
           "longitude": 103.794545295922,
           "postalCode": "738908",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -686,6 +731,7 @@
           "latitude": 1.32980598760785,
           "longitude": 103.931710293058,
           "postalCode": "469680",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -701,6 +747,7 @@
           "latitude": 1.39726966050479,
           "longitude": 103.880330305684,
           "postalCode": "797538",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -716,6 +763,7 @@
           "latitude": 1.34032299499938,
           "longitude": 103.855529906182,
           "postalCode": "319252",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -731,6 +779,7 @@
           "latitude": 1.33641298743234,
           "longitude": 103.69970173931,
           "postalCode": "648200",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -746,6 +795,7 @@
           "latitude": 1.34701408913756,
           "longitude": 103.72652089832,
           "postalCode": "649410",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -761,6 +811,7 @@
           "latitude": 1.28559516494962,
           "longitude": 103.815547410064,
           "postalCode": "158901",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -776,6 +827,7 @@
           "latitude": 1.35711606790292,
           "longitude": 103.949144797277,
           "postalCode": "529176",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -791,6 +843,7 @@
           "latitude": 1.39648195114256,
           "longitude": 103.91233462071,
           "postalCode": "828848",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -806,6 +859,7 @@
           "latitude": 1.375600053443,
           "longitude": 103.763998914082,
           "postalCode": "678972",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -821,6 +875,7 @@
           "latitude": 1.43989958331782,
           "longitude": 103.804725587384,
           "postalCode": "737942",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -836,6 +891,7 @@
           "latitude": 1.32662388643563,
           "longitude": 103.931806159881,
           "postalCode": "469662",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -851,6 +907,7 @@
           "latitude": 1.31667646178347,
           "longitude": 103.784296227747,
           "postalCode": "278790",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -866,6 +923,7 @@
           "latitude": 1.37764019332164,
           "longitude": 103.882533963338,
           "postalCode": "534256",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -881,6 +939,7 @@
           "latitude": 1.35234365488339,
           "longitude": 103.721832320169,
           "postalCode": "649371",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -896,6 +955,7 @@
           "latitude": 1.42896700684852,
           "longitude": 103.790607539185,
           "postalCode": "737888",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -911,6 +971,7 @@
           "latitude": 1.42768847665227,
           "longitude": 103.830425490093,
           "postalCode": "768515",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -926,6 +987,7 @@
           "latitude": 1.37196445720109,
           "longitude": 103.851763531681,
           "postalCode": "569228",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -941,6 +1003,7 @@
           "latitude": 1.35361315263537,
           "longitude": 103.933886165824,
           "postalCode": "528933",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -956,6 +1019,7 @@
           "latitude": 1.34649072704441,
           "longitude": 103.729053872207,
           "postalCode": "609517",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -971,6 +1035,7 @@
           "latitude": 1.33002032220942,
           "longitude": 103.723952961648,
           "postalCode": "618652",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -986,6 +1051,7 @@
           "latitude": 1.33821088716936,
           "longitude": 103.69386868465,
           "postalCode": "648965",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -1001,6 +1067,7 @@
           "latitude": 1.35128862770284,
           "longitude": 103.728907710089,
           "postalCode": "609790",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1016,6 +1083,7 @@
           "latitude": 1.34552849960874,
           "longitude": 103.756449399351,
           "postalCode": "659762",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1031,6 +1099,7 @@
           "latitude": 1.34939813669536,
           "longitude": 103.855018233311,
           "postalCode": "579793",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1046,6 +1115,7 @@
           "latitude": 1.33820397704287,
           "longitude": 103.718089546664,
           "postalCode": "618310",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1061,6 +1131,7 @@
           "latitude": 1.35424191127295,
           "longitude": 103.754165828711,
           "postalCode": "659243",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1076,6 +1147,7 @@
           "latitude": 1.36658417167238,
           "longitude": 103.956944585725,
           "postalCode": "519073",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1091,6 +1163,7 @@
           "latitude": 1.43383904037059,
           "longitude": 103.773643013846,
           "postalCode": "738927",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1106,6 +1179,7 @@
           "latitude": 1.43664424769955,
           "longitude": 103.776008090454,
           "postalCode": "739110",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1121,6 +1195,7 @@
           "latitude": 1.36827266209722,
           "longitude": 103.835360726863,
           "postalCode": "569384",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1136,6 +1211,7 @@
           "latitude": 1.37550677054835,
           "longitude": 103.934953276155,
           "postalCode": "518798",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1151,6 +1227,7 @@
           "latitude": 1.3672468492013,
           "longitude": 103.948972483629,
           "postalCode": "518901",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1166,6 +1243,7 @@
           "latitude": 1.31846187997069,
           "longitude": 103.819071149611,
           "postalCode": "259366",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -1181,6 +1259,7 @@
           "latitude": 1.41937881620441,
           "longitude": 103.831050390247,
           "postalCode": "768689",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1196,6 +1275,7 @@
           "latitude": 1.30977590011357,
           "longitude": 103.77318863421,
           "postalCode": "139657",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1211,6 +1291,7 @@
           "latitude": 1.42745159462566,
           "longitude": 103.848378442893,
           "postalCode": "768960",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1226,6 +1307,7 @@
           "latitude": 1.38255066171151,
           "longitude": 103.89626457548,
           "postalCode": "544974",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1241,6 +1323,7 @@
           "latitude": 1.381131285358,
           "longitude": 103.899188813886,
           "postalCode": "545081",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1256,6 +1339,7 @@
           "latitude": 1.42130404159807,
           "longitude": 103.840792923345,
           "postalCode": "769026",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1271,6 +1355,7 @@
           "latitude": 1.43580183362637,
           "longitude": 103.840104687784,
           "postalCode": "768578",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1286,6 +1371,7 @@
           "latitude": 1.45732867302094,
           "longitude": 103.814075611175,
           "postalCode": "757622",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1301,6 +1387,7 @@
           "latitude": 1.40507184758584,
           "longitude": 103.911200193835,
           "postalCode": "828716",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1316,6 +1403,7 @@
           "latitude": 1.35218046898785,
           "longitude": 103.940598001519,
           "postalCode": "528523",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -1331,6 +1419,7 @@
           "latitude": 1.37801687647812,
           "longitude": 103.9392021807,
           "postalCode": "519524",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1346,6 +1435,7 @@
           "latitude": 1.37284060102246,
           "longitude": 103.959728202919,
           "postalCode": "518934",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1361,6 +1451,7 @@
           "latitude": 1.35422732653396,
           "longitude": 103.948962626204,
           "postalCode": "529400",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1376,6 +1467,7 @@
           "latitude": 1.37405935580675,
           "longitude": 103.951850332313,
           "postalCode": "519640",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -1391,6 +1483,7 @@
           "latitude": 1.35951583222214,
           "longitude": 103.870010749055,
           "postalCode": "556094",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1406,6 +1499,7 @@
           "latitude": 1.36665944653812,
           "longitude": 103.83021606804,
           "postalCode": "575566",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1421,6 +1515,7 @@
           "latitude": 1.41741627551251,
           "longitude": 103.830143209875,
           "postalCode": "768687",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1436,6 +1531,7 @@
           "latitude": 1.3388763709006,
           "longitude": 103.687889547387,
           "postalCode": "649037",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1451,6 +1547,7 @@
           "latitude": 1.35765121877679,
           "longitude": 103.935246486174,
           "postalCode": "529067",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1466,6 +1563,7 @@
           "latitude": 1.402069,
           "longitude": 103.909443,
           "postalCode": "828870",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1481,6 +1579,7 @@
           "latitude": 1.40505250226058,
           "longitude": 103.905299026568,
           "postalCode": "828845",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1496,6 +1595,7 @@
           "latitude": 1.3132658326807,
           "longitude": 103.756629101811,
           "postalCode": "128104",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1511,6 +1611,7 @@
           "latitude": 1.44203596557592,
           "longitude": 103.788339762066,
           "postalCode": "738525",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1526,6 +1627,7 @@
           "latitude": 1.29552905587752,
           "longitude": 103.807648475656,
           "postalCode": "149303",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1541,6 +1643,7 @@
           "latitude": 1.30022271592188,
           "longitude": 103.802207291625,
           "postalCode": "149295",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1556,6 +1659,7 @@
           "latitude": 1.27489701529771,
           "longitude": 103.824115781658,
           "postalCode": "099840",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1571,6 +1675,7 @@
           "latitude": 1.33405659580859,
           "longitude": 103.934317528484,
           "postalCode": "469719",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1586,6 +1691,7 @@
           "latitude": 1.39333506298213,
           "longitude": 103.904545253288,
           "postalCode": "545092",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1601,6 +1707,7 @@
           "latitude": 1.4457453096024,
           "longitude": 103.821152676215,
           "postalCode": "757715",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1616,6 +1723,7 @@
           "latitude": 1.38925044778224,
           "longitude": 103.899527879229,
           "postalCode": "545166",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1631,6 +1739,7 @@
           "latitude": 1.38659683143747,
           "longitude": 103.898365036709,
           "postalCode": "545090",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1646,6 +1755,7 @@
           "latitude": 1.3925400930811,
           "longitude": 103.874984869551,
           "postalCode": "797636",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1661,6 +1771,7 @@
           "latitude": 1.39550149743855,
           "longitude": 103.885784328681,
           "postalCode": "544964",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -1676,6 +1787,7 @@
           "latitude": 1.3816381331934,
           "longitude": 103.764676250968,
           "postalCode": "679910",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -1691,6 +1803,7 @@
           "latitude": 1.36932570490947,
           "longitude": 103.869270301476,
           "postalCode": "555889",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1706,6 +1819,7 @@
           "latitude": 1.37465538827443,
           "longitude": 103.902138740699,
           "postalCode": "534237",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1721,6 +1835,7 @@
           "latitude": 1.34686967259067,
           "longitude": 103.721559387203,
           "postalCode": "649332",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1736,6 +1851,7 @@
           "latitude": 1.38143123987698,
           "longitude": 103.747153671,
           "postalCode": "689762",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1751,6 +1867,7 @@
           "latitude": 1.36411948475833,
           "longitude": 103.749251919049,
           "postalCode": "659401",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1766,6 +1883,7 @@
           "latitude": 1.34648798732177,
           "longitude": 103.876094163287,
           "postalCode": "556140",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1781,6 +1899,7 @@
           "latitude": 1.36471742697475,
           "longitude": 103.750396136688,
           "postalCode": "659322",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1796,6 +1915,7 @@
           "latitude": 1.36565018546903,
           "longitude": 103.851009800453,
           "postalCode": "569299",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1811,6 +1931,7 @@
           "latitude": 1.35994649477568,
           "longitude": 103.853768994775,
           "postalCode": "569730",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1826,6 +1947,7 @@
           "latitude": 1.40278303219036,
           "longitude": 103.746801233973,
           "postalCode": "688268",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1841,6 +1963,7 @@
           "latitude": 1.40001524119441,
           "longitude": 103.74602091483,
           "postalCode": "689143",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1856,6 +1979,7 @@
           "latitude": 1.39889261226315,
           "longitude": 103.918585924582,
           "postalCode": "828802",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1871,6 +1995,7 @@
           "latitude": 1.45168517614776,
           "longitude": 103.822516208087,
           "postalCode": "757702",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1886,6 +2011,7 @@
           "latitude": 1.38378546546228,
           "longitude": 103.760273432258,
           "postalCode": "677742",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1901,6 +2027,7 @@
           "latitude": 1.35373698510994,
           "longitude": 103.701772102139,
           "postalCode": "648350",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1916,6 +2043,7 @@
           "latitude": 1.43273620725049,
           "longitude": 103.79023031392,
           "postalCode": "738079",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1931,6 +2059,7 @@
           "latitude": 1.43912528141356,
           "longitude": 103.774586410437,
           "postalCode": "739111",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1946,6 +2075,7 @@
           "latitude": 1.4341397536544,
           "longitude": 103.77985009679,
           "postalCode": "738620",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -1961,6 +2091,7 @@
           "latitude": 1.35799653782463,
           "longitude": 103.890216355459,
           "postalCode": "538882",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1976,6 +2107,7 @@
           "latitude": 1.37793264345276,
           "longitude": 103.885643682171,
           "postalCode": "538720",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -1991,6 +2123,7 @@
           "latitude": 1.37797597740925,
           "longitude": 103.84213696352,
           "postalCode": "569868",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -2006,6 +2139,7 @@
           "latitude": 1.38227243947685,
           "longitude": 103.845767848209,
           "postalCode": "569770",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -2021,6 +2155,7 @@
           "latitude": 1.43397617334964,
           "longitude": 103.834050796658,
           "postalCode": "768679",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -2036,6 +2171,7 @@
           "latitude": 1.42813324276086,
           "longitude": 103.828764316679,
           "postalCode": "768516",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -2051,6 +2187,7 @@
           "latitude": 1.41201836718275,
           "longitude": 103.831177390838,
           "postalCode": "769130",
+          "facilityBookingLeadTime": null,
           "type": {
             "name": "SRC",
             "id": "18BtxF4HQYEYBGdnoSM5a"
@@ -2066,6 +2203,7 @@
           "latitude": 1.43232156717386,
           "longitude": 103.838094226361,
           "postalCode": "768610",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -2081,6 +2219,7 @@
           "latitude": 1.34200635764467,
           "longitude": 103.72089870437,
           "postalCode": "618654",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -2096,6 +2235,7 @@
           "latitude": 1.36026072476019,
           "longitude": 103.869712517383,
           "postalCode": "556095",
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
