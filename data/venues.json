@@ -1523,22 +1523,6 @@
           "favourited": false
         },
         {
-          "id": "4kXZXBKwVB4xtIg3msBEq",
-          "name": "Pioneer Primary School Hall",
-          "description": null,
-          "address": "31 JURONG WEST STREET 91, PIONEER PRIMARY SCHOOL, SINGAPORE 649037",
-          "status": "ACTIVE",
-          "latitude": 1.3388763709006,
-          "longitude": 103.687889547387,
-          "postalCode": "649037",
-          "facilityBookingLeadTime": 3,
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          },
-          "favourited": false
-        },
-        {
           "id": "Fe4pq9qbZZkwHPYyWqRN8",
           "name": "Poi Ching School Hall",
           "description": null,
