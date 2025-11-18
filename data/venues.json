@@ -723,6 +723,22 @@
           "favourited": false
         },
         {
+          "id": "WHa3066PaItBKX5ZwvueP",
+          "name": "Farrer Park Primary School Hall",
+          "description": null,
+          "address": "2 FARRER PARK ROAD SINGAPORE 217567",
+          "status": "ACTIVE",
+          "latitude": 1.31236867681371,
+          "longitude": 103.850766402965,
+          "postalCode": "217567",
+          "facilityBookingLeadTime": 3,
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "O0tvwIrzxdBw1jcWmjp7q",
           "name": "Fengshan Primary School Hall",
           "description": null,
@@ -1659,6 +1675,22 @@
           "latitude": 1.33405659580859,
           "longitude": 103.934317528484,
           "postalCode": "469719",
+          "facilityBookingLeadTime": 3,
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
+          "id": "90m811nMHjVf4iGGkoPkf",
+          "name": "Riverside Secondary School Hall",
+          "description": null,
+          "address": "3 WOODLANDS STREET 81 SINGAPORE 738524",
+          "status": "ACTIVE",
+          "latitude": 1.44110157139127,
+          "longitude": 103.78830823641,
+          "postalCode": "738524",
           "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
