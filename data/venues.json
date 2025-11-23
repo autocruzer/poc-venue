@@ -1107,22 +1107,6 @@
           "favourited": false
         },
         {
-          "id": "kOnZuc48plvOq7IthMY2U",
-          "name": "Kuo Chuan Presbyterian Primary School Hall",
-          "description": null,
-          "address": "8 BISHAN STREET 13 KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL (U/C) SINGAPORE 579793",
-          "status": "ACTIVE",
-          "latitude": 1.34939813669536,
-          "longitude": 103.855018233311,
-          "postalCode": "579793",
-          "facilityBookingLeadTime": 3,
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          },
-          "favourited": false
-        },
-        {
           "id": "AYfq2dsBbG3q71PK4nOEf",
           "name": "Lakeside Primary School Hall",
           "description": null,
