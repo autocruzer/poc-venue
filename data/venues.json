@@ -435,22 +435,6 @@
           "favourited": false
         },
         {
-          "id": "jP33ehBA3lDjp34Lq7dEd",
-          "name": "Choa Chu Kang Sport Hall",
-          "description": null,
-          "address": "1 CHOA CHU KANG STREET 53 CHOA CHU KANG SPORT CENTRE SINGAPORE 689236",
-          "status": "ACTIVE",
-          "latitude": 1.39059559281482,
-          "longitude": 103.748024129362,
-          "postalCode": "689236",
-          "facilityBookingLeadTime": 0,
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
-          },
-          "favourited": false
-        },
-        {
           "id": "liiH4YYsu0f3tlzWgC8I7",
           "name": "Christ Church Secondary School Hall",
           "description": null,
