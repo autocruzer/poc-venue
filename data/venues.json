@@ -547,6 +547,22 @@
           "favourited": false
         },
         {
+          "id": "S1a100KWjvY7ofteyu0fV",
+          "name": "Crescent Girls' School Hall",
+          "description": null,
+          "address": "357 TANGLIN ROAD CRESCENT GIRLS' SCHOOL SINGAPORE 247961",
+          "status": "ACTIVE",
+          "latitude": 1.29331947077104,
+          "longitude": 103.817544461755,
+          "postalCode": "247961",
+          "facilityBookingLeadTime": 3,
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "CQT4YYAq7wPkHGOuziyvg",
           "name": "Dazhong Primary School Hall",
           "description": null,
