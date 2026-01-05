@@ -2051,6 +2051,22 @@
           "favourited": false
         },
         {
+          "id": "US6TJ1M2qrDBEIXuEBbrT",
+          "name": "Whitley Secondary School Hall",
+          "description": null,
+          "address": "30 Bishan Street 24 Singapore 579747",
+          "status": "ACTIVE",
+          "latitude": 1.355497,
+          "longitude": 103.843265,
+          "postalCode": "579747",
+          "facilityBookingLeadTime": 3,
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "Qulnp10Fos2i45rlgrA5b",
           "name": "Woodgrove Primary School Hall",
           "description": null,
