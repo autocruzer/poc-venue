@@ -2072,8 +2072,8 @@
           "description": null,
           "address": "30 Bishan Street 24 Singapore 579747",
           "status": "ACTIVE",
-          "latitude": 1.355497,
-          "longitude": 103.843265,
+          "latitude": 1.35505208480649,
+          "longitude": 103.842552378136,
           "postalCode": "579747",
           "facilityBookingLeadTime": 3,
           "type": {
