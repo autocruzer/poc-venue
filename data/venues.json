@@ -403,6 +403,22 @@
           "favourited": false
         },
         {
+          "id": "AxDehUxuPrlYSmWBAR3lc",
+          "name": "Cedar Primary School Hall",
+          "description": null,
+          "address": "15 CEDAR AVENUE BIG HEART STUDENT CARE (CEDAR PRIMARY SCHOOL) SINGAPORE 349700",
+          "status": "ACTIVE",
+          "latitude": 1.33566084356265,
+          "longitude": 103.87562006259,
+          "postalCode": "349700",
+          "facilityBookingLeadTime": 3,
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
           "id": "IftVzycvPKY3HYuyLhOYe",
           "name": "Changkat Changi Secondary School Hall",
           "description": null,
