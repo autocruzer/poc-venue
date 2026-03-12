@@ -1811,22 +1811,6 @@
           "favourited": false
         },
         {
-          "id": "cRyHuTcU77VZY7Er3jVf5",
-          "name": "Sengkang Sport Hall",
-          "description": null,
-          "address": "57 ANCHORVALE ROAD SENGKANG SPORT CENTRE SINGAPORE 544964",
-          "status": "ACTIVE",
-          "latitude": 1.39550149743855,
-          "longitude": 103.885784328681,
-          "postalCode": "544964",
-          "facilityBookingLeadTime": null,
-          "type": {
-            "name": "SRC",
-            "id": "18BtxF4HQYEYBGdnoSM5a"
-          },
-          "favourited": false
-        },
-        {
           "id": "JEBGvnHbjLScZCVrgAorv",
           "name": "Senja-Cashew Sport Hall",
           "description": null,
