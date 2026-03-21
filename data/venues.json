@@ -438,7 +438,7 @@
           "id": "I5qnyIxLbwQYfZ1D6487A",
           "name": "Changkat Primary School Hall",
           "description": null,
-          "address": "11 SIMEI STREET 3 CHANGKAT PRIMARY SCHOOL SINGAPORE 529896",
+          "address": "11 SIMEI STREET 3 SINGAPORE 529896",
           "status": "ACTIVE",
           "latitude": 1.34023163951633,
           "longitude": 103.952080114035,
@@ -2283,6 +2283,22 @@
           "latitude": 1.34200635764467,
           "longitude": 103.72089870437,
           "postalCode": "618654",
+          "facilityBookingLeadTime": 3,
+          "type": {
+            "name": "DUS",
+            "id": "6ZJYS5k0NN0whMIUatTk2"
+          },
+          "favourited": false
+        },
+        {
+          "id": "sKQu9UyewFBDNeWqqJlil",
+          "name": "Yuhua Primary School Hall",
+          "description": null,
+          "address": "158 Jurong East Street 24 Singapore 609558",
+          "status": "ACTIVE",
+          "latitude": 1.34291981622016,
+          "longitude": 103.740861148879,
+          "postalCode": "609558",
           "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
