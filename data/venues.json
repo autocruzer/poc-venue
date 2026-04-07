@@ -902,10 +902,10 @@
           "id": "9SZuSjvI6tyRvV76JPvq6",
           "name": "Greenridge Secondary School Hall",
           "description": null,
-          "address": "31 GANGSA ROAD GREENRIDGE SECONDARY SCHOOL SINGAPORE 678972",
+          "address": "31 Gangsa Road Singapore 678972",
           "status": "ACTIVE",
-          "latitude": 1.375600053443,
-          "longitude": 103.763998914082,
+          "latitude": 1.375887,
+          "longitude": 103.764493,
           "postalCode": "678972",
           "facilityBookingLeadTime": 3,
           "type": {
