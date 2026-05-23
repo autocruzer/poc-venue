@@ -59,7 +59,7 @@
           "latitude": 1.369321765846087,
           "longitude": 103.839630858752,
           "postalCode": "569920",
-          "facilityBookingLeadTime": 1,
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
@@ -568,10 +568,10 @@
           "description": null,
           "address": "357 Tanglin Road Singapore 247961",
           "status": "ACTIVE",
-          "latitude": 1.293319470771038,
-          "longitude": 103.8175444617547,
+          "latitude": 1.29331947077104,
+          "longitude": 103.817544461755,
           "postalCode": "247961",
-          "facilityBookingLeadTime": 3,
+          "facilityBookingLeadTime": 0,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
