@@ -520,8 +520,8 @@
           "description": null,
           "address": "518 Clementi Avenue 3 Singapore 129907",
           "status": "ACTIVE",
-          "latitude": 1.310902184551522,
-          "longitude": 103.7650158877556,
+          "latitude": 1.31101498092681,
+          "longitude": 103.764861406796,
           "postalCode": "129907",
           "facilityBookingLeadTime": 0,
           "type": {
@@ -571,7 +571,7 @@
           "latitude": 1.29331947077104,
           "longitude": 103.817544461755,
           "postalCode": "247961",
-          "facilityBookingLeadTime": 0,
+          "facilityBookingLeadTime": 3,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
