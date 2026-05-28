@@ -979,6 +979,22 @@
           "favourited": false
         },
         {
+          "id": "Z6A8EpcHcfy39qe2qse72",
+          "name": "Hougang Sport Hall",
+          "description": null,
+          "address": "93 Hougang Avenue 4 Singapore 538832",
+          "status": "ACTIVE",
+          "latitude": 1.3704490003523,
+          "longitude": 103.888075069741,
+          "postalCode": "538832",
+          "facilityBookingLeadTime": null,
+          "type": {
+            "name": "SRC",
+            "id": "18BtxF4HQYEYBGdnoSM5a"
+          },
+          "favourited": false
+        },
+        {
           "id": "7Gkwfqhh4iShnyRIZBs2W",
           "name": "Hua Yi Secondary School Hall",
           "description": null,
