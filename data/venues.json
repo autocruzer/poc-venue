@@ -435,22 +435,6 @@
           "favourited": false
         },
         {
-          "id": "I5qnyIxLbwQYfZ1D6487A",
-          "name": "Changkat Primary School Hall",
-          "description": null,
-          "address": "11 SIMEI STREET 3 SINGAPORE 529896",
-          "status": "ACTIVE",
-          "latitude": 1.34023163951633,
-          "longitude": 103.952080114035,
-          "postalCode": "529896",
-          "facilityBookingLeadTime": 3,
-          "type": {
-            "name": "DUS",
-            "id": "6ZJYS5k0NN0whMIUatTk2"
-          },
-          "favourited": false
-        },
-        {
           "id": "jP33ehBA3lDjp34Lq7dEd",
           "name": "Choa Chu Kang Sport Hall",
           "description": null,
@@ -1014,7 +998,7 @@
           "id": "AJ13GOe1e0Tg6RCjS2ZcM",
           "name": "Innova Primary School Hall",
           "description": null,
-          "address": "80 WOODLANDS DRIVE 17 INNOVA PRIMARY SCHOOL SINGAPORE 737888",
+          "address": "80 Woodlands Drive 17 Singapore 737888",
           "status": "ACTIVE",
           "latitude": 1.42896700684852,
           "longitude": 103.790607539185,
@@ -1928,8 +1912,8 @@
           "description": null,
           "address": "30 BUKIT BATOK STREET 32 ST ANTHONY'S PRIMARY SCHOOL SINGAPORE 659401",
           "status": "ACTIVE",
-          "latitude": 1.36411948475833,
-          "longitude": 103.749251919049,
+          "latitude": 1.364735,
+          "longitude": 103.7493779,
           "postalCode": "659401",
           "facilityBookingLeadTime": 3,
           "type": {
@@ -2187,7 +2171,7 @@
           "latitude": 1.396766009050365,
           "longitude": 103.7509859673458,
           "postalCode": "689100",
-          "facilityBookingLeadTime": 3,
+          "facilityBookingLeadTime": 1,
           "type": {
             "name": "DUS",
             "id": "6ZJYS5k0NN0whMIUatTk2"
